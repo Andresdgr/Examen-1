@@ -1,0 +1,30 @@
+Registrar informacion sobre los cursos:
+
+Se va a registrar la siguiente informacion de los cursos:
+
+	1. Codigo del curso
+	2. Nombre del curso
+	3. HTD(Horas de trabajo con el docente)
+	4. HTI(Horas de trabajo independiente)
+	5. NC(Numero de creditos)
+
+Nota: esta informacion se planea guardar en un arreglo:
+cursos[]={Codigo del curso, Nombre del curso, NTD, NTI, NC}
+
+
+Registrar informacion del horario:
+
+Se debe pedir al usuario:
+
+	1. El curso que desea agregar al horario
+	2. El horario en el que lo desea poner
+	Nota: se tendra un arreglo del horario de la siguiente manera:
+
+		m --> Materia
+                         |---------LUNES--------|  |--------MARTES--------|     |--------DOMINGO-------|
+	horario[7][24][2]={{{1,m},{2,m},...,{24,m}}, {{1,m},{2,m},...,{24,m}},...,{{1,m},{2,m},...,{24,m}}}
+
+
+Recomendacion de horas de estudio:
+
+El plan es que el programa recorra "horario" y verifique si en [0(LUNES)-6(DOMINGO)][0(horas)-24(horas)][1(materia)] hay una curso, asimismo debe verificar la informacion registrada del curso en cuestion para poder recomendar las horas de estudio segun los creditos restandole que las horas de HTD que ya se encuentran en el horario, es decir recomendara poner las HTI en los espacios que no haya una materia.
