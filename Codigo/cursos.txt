@@ -1,0 +1,43 @@
+2536101,Descubriendo la Fisica,3,4
+2555131,Cálculo Diferencial,3,4
+2555101,Álgebra y Trigonometria,3,4
+2555121,Geom. Vector. y Analitica,3,4
+2598511,Informatica I,4,7
+2538101,Inglés I,1,4
+2537101,Vivamos al Universidad,1,2
+2536201,Física Mecánica,3,4
+2555231,Cálculo Integral,3,4
+2555221,Álgebra Lineal,3,4
+2598522,Introducción a la Ing. Electró.,1,2
+2598521,Informática II,4,7
+2538201,Inglés II,1,4
+2539101,Lecto-escritura,3,4
+2536302,Física de Ondas,3,4
+2555331,Cálculo Vectorial,3,4
+2598531,Ecuaciones Diferenciales,3,4
+2598532,Circuitos Eléctricos I,4,7
+2599431,Probabilidad y Estadística,3,4
+2538301,Inglés III,1,4
+2517362,Form. Ciud. y Constitucional,1,2
+2536311,Física de Campos,3,4
+2598541,Matemáticas Especiales,3,4
+2598544,Métodos Numéricos,3,4
+2598542,Circuitos Eléctricos II,4,7
+2598543,Matemáticas Discretas,3,4
+2538401,Inglés IV,1,4
+2536502,Lab. Integrad. de Física,2,6
+2598554,Electro-magnetismo,3,4
+2598551,Física del Estado Sólido,3,4
+2598552,Electrónica Analógica I,4,7
+2598553,Electrónica Digital I,4,7
+2538501,Inglés V,1,4
+2598563,Sist. Control Continuo,4,7
+2599461,Tratamiento de Señales I,4,7
+2598561,Electrónica Analógica II,4,7
+2598562,Electrónica Digital II,4,7
+2538601,Inglés VI,1,4
+2598574,Máquinas Eléctricas,4,7
+2598572,Tratamiento de Señales II,4,7
+2598573,Acondicion. de Señales,4,7
+2598571,Electrónica Digital III,4,7
+
